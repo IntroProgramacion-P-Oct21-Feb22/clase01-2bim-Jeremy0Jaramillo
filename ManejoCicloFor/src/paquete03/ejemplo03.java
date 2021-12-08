@@ -3,23 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package paquete01;
+package paquete03;
 
 /**
  *
- * @author reroes
+ * @author SALAA
  */
-public class Ejemplo01 {
-
-    /**
-     * @param args the command line arguments
-     */
+public class ejemplo03 {
+    
     public static void main(String[] args) {
-
-        for (int i = 1; i <= 10; i++) {
-            System.out.printf("%d\n", i);
+        
+        for (int i = 0; i < 10; i++) {
+            
         }
-
     }
-
 }
